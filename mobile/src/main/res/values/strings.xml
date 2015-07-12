@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Accelerate</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="title_activity_camera__opener">Camera_Opener</string>
+        <string name="title_activity_activation">ActivationActivity</string>
+        <string name="title_activity_take_the_picture">TakeThePicture</string>
+        <string name="title_activity_create_tweet">CreateTweet</string>
+</resources>
